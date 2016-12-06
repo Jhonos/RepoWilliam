@@ -1,0 +1,5 @@
+Correo:
+	https://merkava.mueblesfiesta.com/owa
+
+Servidor:
+	optima7.fiesta.local
