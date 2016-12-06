@@ -1,3 +1,5 @@
 se crea un tercer archivo
 
 se modifica el tercer archivo en Ticket00456
+
+Cambios modificados localmente en el tercer archivo 12:22 p.m. 06/12/2016
